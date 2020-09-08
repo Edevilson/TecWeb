@@ -1,0 +1,30 @@
+body{
+    background:#ff4551;
+}  
+
+p.branco{
+    color: #ffffff;
+    text-align:center; #tipo de alinhamento
+    font-family:'Courier New', Courier, Monospace;
+}
+
+p.vermelho{
+    color: red;
+    text-align:reight;
+    font-family:'Verdana', Geneva;
+}
+
+p.azul{
+    color: blue;
+    text-align:left; 
+    font-family:'Franklin Gothic Medium';
+}
+
+.verde{
+    color: green;
+    
+}
+
+h1, h3, h6{
+    color: silver;
+}
